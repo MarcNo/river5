@@ -4,6 +4,10 @@
 		"panels": [
 			{
 				"title": "Main",
+				"river": "feedly.opml"
+				},
+			{
+				"title": "Main",
 				"river": "myOpmlFeeds.js"
 				},
 			{
