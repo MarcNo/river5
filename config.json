@@ -4,7 +4,7 @@
 	"homePage": { 
 		"panels": [
 			{
-				"title": "Main",
+				"title": "Marc's Feedly",
 				"river": "feedly.opml"
 				},
 			{
