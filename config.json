@@ -1,6 +1,6 @@
 {
 	"maxRiverItems": 300,
-        "httpPort":8080,
+        "httpPort": 8080,
 	"homePage": { 
 		"panels": [
 			{
