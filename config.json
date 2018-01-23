@@ -8,6 +8,14 @@
 				"river": "feedly.opml"
 				},
 			{
+				"title": "DW's Feeds for Journalists",
+				"river": "list.opml"
+				},
+			{
+				"title": "Marc's Podcasts",
+				"river": "myPodcasts.opml"
+				},
+			{
 				"title": "Main",
 				"river": "myOpmlFeeds.js"
 				},
